@@ -1,0 +1,62 @@
+Watching for file changes with StatReloader
+[15/Dec/2019 14:55:01] "GET / HTTP/1.1" 200 5371
+[15/Dec/2019 14:55:01] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+[15/Dec/2019 14:55:01] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+[15/Dec/2019 14:55:01] "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
+[15/Dec/2019 14:55:01] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+[15/Dec/2019 14:55:01] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+[15/Dec/2019 14:55:01] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+[15/Dec/2019 14:55:01] "GET /static/rest_framework/js/jquery-3.4.1.min.js HTTP/1.1" 200 88145
+[15/Dec/2019 14:55:01] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+[15/Dec/2019 14:55:01] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+[15/Dec/2019 14:55:01] "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+[15/Dec/2019 14:55:01] "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+Not Found: /favicon.ico
+[15/Dec/2019 14:55:01] "GET /favicon.ico HTTP/1.1" 404 3210
+[15/Dec/2019 14:55:32] "GET / HTTP/1.1" 200 5371
+[15/Dec/2019 14:55:33] "GET /mealdatas/ HTTP/1.1" 200 12960
+[15/Dec/2019 14:55:50] "GET / HTTP/1.1" 200 93
+[15/Dec/2019 14:57:26] "GET /mealdatas/ HTTP/1.1" 200 12960
+[15/Dec/2019 14:57:36] "GET /admin HTTP/1.1" 301 0
+[15/Dec/2019 14:57:36] "GET /admin/ HTTP/1.1" 302 0
+[15/Dec/2019 14:57:36] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1917
+[15/Dec/2019 14:57:36] "GET /static/admin/css/login.css HTTP/1.1" 200 1233
+[15/Dec/2019 14:57:36] "GET /static/admin/css/base.css HTTP/1.1" 200 16378
+[15/Dec/2019 14:57:36] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18052
+[15/Dec/2019 14:57:36] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[15/Dec/2019 14:57:36] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[15/Dec/2019 14:57:36] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[15/Dec/2019 14:57:39] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[15/Dec/2019 14:57:39] "GET /admin/ HTTP/1.1" 200 7645
+[15/Dec/2019 14:57:39] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+[15/Dec/2019 14:57:39] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[15/Dec/2019 14:57:39] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[15/Dec/2019 14:57:39] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+/home/ubuntu/.local/lib/python3.6/site-packages/sqlparse/filters/tokens.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 15, 2019 - 14:53:52
+Django version 3.0, using settings 'mysite.settings'
+Starting development server at http://0:8080/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
+/home/ubuntu/.local/lib/python3.6/site-packages/django/contrib/messages/apps.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 15, 2019 - 15:14:19
+Django version 3.0, using settings 'mysite.settings'
+Starting development server at http://0:8080/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
+[15/Dec/2019 16:26:37] "GET / HTTP/1.1" 200 93
+/home/ubuntu/gs/hanseigs/mysite/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 15, 2019 - 15:14:22
+Django version 3.0, using settings 'mysite.settings'
+Starting development server at http://0:8080/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
